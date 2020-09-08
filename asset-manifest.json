@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/picardia-/static/css/main.3845b4ab.chunk.css",
+    "main.js": "/picardia-/static/js/main.c9433505.chunk.js",
+    "main.js.map": "/picardia-/static/js/main.c9433505.chunk.js.map",
+    "runtime-main.js": "/picardia-/static/js/runtime-main.8cfa025f.js",
+    "runtime-main.js.map": "/picardia-/static/js/runtime-main.8cfa025f.js.map",
+    "static/js/2.e835b665.chunk.js": "/picardia-/static/js/2.e835b665.chunk.js",
+    "static/js/2.e835b665.chunk.js.map": "/picardia-/static/js/2.e835b665.chunk.js.map",
+    "index.html": "/picardia-/index.html",
+    "precache-manifest.5a0f262af581bd0672a11be54a978513.js": "/picardia-/precache-manifest.5a0f262af581bd0672a11be54a978513.js",
+    "service-worker.js": "/picardia-/service-worker.js",
+    "static/css/main.3845b4ab.chunk.css.map": "/picardia-/static/css/main.3845b4ab.chunk.css.map",
+    "static/js/2.e835b665.chunk.js.LICENSE.txt": "/picardia-/static/js/2.e835b665.chunk.js.LICENSE.txt",
+    "static/media/LOGO-PICARDIA--BLANCO.png": "/picardia-/static/media/LOGO-PICARDIA--BLANCO.c782774f.png",
+    "static/media/LOGO-PICARDIA-NEGRO.png": "/picardia-/static/media/LOGO-PICARDIA-NEGRO.d4fd60af.png",
+    "static/media/index.css": "/picardia-/static/media/Offer.cb560250.png",
+    "static/media/Offer1.png": "/picardia-/static/media/Offer1.1735c3c6.png",
+    "static/media/esposas.png": "/picardia-/static/media/esposas.da0a133b.png",
+    "static/media/rostro.jpg": "/picardia-/static/media/rostro.61bd2cdf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cfa025f.js",
+    "static/js/2.e835b665.chunk.js",
+    "static/css/main.3845b4ab.chunk.css",
+    "static/js/main.c9433505.chunk.js"
+  ]
+}
